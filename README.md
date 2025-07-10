@@ -79,7 +79,7 @@
     </div>
 
     <div class="final-message" id="finalMsg">
-      😂🖕 Kya lega looola? 🖕🖕
+      😂🖕 Kya lega loora? 🖕🖕
     </div>
   </div>
 
